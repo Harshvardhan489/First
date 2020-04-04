@@ -1,7 +1,7 @@
 # First
-1)Name of Project:Fastagram
+1)Name of Project:-  Fastagram
 
-2)Tech stack: HTML,CSS,ATOM,Chrome.
+2)Tech stack:-   HTML,CSS,ATOM,Chrome.
 
  I tried to make a prototype of one kind of Social Media page which i named "Fastagram".I made this on the basis of what
  I learned from the progate courses of html and css course.I tried to make use of all the things which i learned. 
@@ -10,4 +10,5 @@
  Because of lack of time I am not adding media queries and comments in my code right now.As i am beginner with HTML and CSS my page 
  is a static page not a dynamic page. 
  
+ Link of video : "https://youtu.be/HHIA4TPtoKw"
  
