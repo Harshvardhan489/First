@@ -1,0 +1,165 @@
+body{
+  background-color:#fae5d3;
+}
+
+.heading{
+  background-color: #641e16 ;
+  height:55px;
+}
+.btn{
+  float: left;
+  margin-top:12px;
+  margin-left: 30px;
+  height:30px;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+}
+.home{
+  width:60px;
+  box-shadow: 2px 2px white;
+}
+
+.message{
+  width:78px;
+  box-shadow: 2px 2px white;
+}
+
+.notifications{
+  width:108px;
+  box-shadow: 2px 2px white;
+}
+
+.log-out{
+  float:right;
+  margin-right: 25px;
+  box-shadow: 3px 2px white;
+}
+
+.search{
+  background-color: white;
+  height:30px;
+  width:500px;
+  float:right;
+  margin-top:10px;
+  text-align: left;
+  padding: 2px;
+  font-size: 22px;
+}
+
+.search:hover{
+  opacity: 0.95;
+  cursor:text;
+
+}
+
+.log-out:active{
+  box-shadow: none;
+  color:#f10821;
+}
+
+.btn:hover{
+  opacity: 0.8;
+}
+
+.container{
+  height:800px;
+  margin-top:70px;
+}
+
+.mid-left{
+  width:25%;
+  background-color: #d5dbdb ;
+  height:780px;
+}
+
+.name{
+  float:left;
+
+}
+.name p{
+  float:left;
+  font-size: 25px;
+  font-family: fantasy;
+}
+
+.add{
+  margin-top: 28px;
+  margin-left: 30px;
+  width:50px;
+  height:25px;
+  color:white;
+  font-weight: bold;
+  background-color: #1a6ddf;
+}
+
+.head h2{
+  margin-left:30px;
+  font-size: 30px;
+  padding-top:  20px;
+}
+
+.add:active{
+  background-color: #51bf22;
+}
+
+.head{
+  border-bottom: 5px solid #656c62;
+}
+
+.mid-right{
+  float:right;
+  width:75%;
+  height:500px;
+}
+
+.picture{
+  margin-left:150px;
+}
+
+.picture h4{
+  color:black;
+  font-size: 35px;
+  font-weight:400;
+  border-bottom: 4px dashed  #34495e ;
+  font-family: cursive;
+}
+
+.picture img{
+  background:cover;
+  width:90%;
+  height:600px;
+  text-align: center;
+  border:8px solid black;
+}
+
+.footer{
+  height:100px;
+  background-color: black ;
+  margin-top:800px;
+}
+
+.text{
+  font-size: 40px;
+  display: inline-block;
+  margin-top: 18px;
+  color: white;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+.footer p{
+  color: white;
+  margin-left: 20px;
+  margin-top:4px;
+  position: absolute;
+}
+
+.footer img{
+  background: cover;
+  float:right;
+  margin-right: 15px;
+  height:100px;
+  position: relative;
+
+}
